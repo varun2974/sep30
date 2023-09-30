@@ -1,0 +1,136 @@
+.header{
+    width: 85%;
+    margin: auto;
+    
+}
+
+.servies-sec{
+    height: 383px;
+    width: 85%;
+    margin: auto;
+}
+.navlist{
+    width: 30%;
+    
+}
+.menu-style{
+    width: 60%;
+    margin: auto;
+}
+.head{
+   margin: auto;
+}
+
+.navlist>a{
+    text-decoration: none;
+    color: gray;
+    font-weight: 400;
+}
+.Search-icon{
+    padding: 0px 12px;
+    border: 1px solid rgb(232,232,232);
+    border-radius: 12px;
+}
+.Search-icon>input{
+    padding: 3px 0px;
+    border: none;
+
+}
+.my-btn{
+    background-color: #f94a3d !important;
+    border: none;
+}
+.nav{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+.img-left{
+    width: 70%;
+}
+.text-color{
+    color: #f94a3d;
+}
+.my-btn-exp{
+    background-color: #f94a3d !important;
+    border-radius: 16px !important;
+}
+.mid-sec{
+    background-color: #fef4f3;
+}
+.chinen{
+    width: 90%;
+}
+.chinenn{
+    width: 100%;
+}
+.itemss{
+    width: 24%;
+}
+.food-menu{
+    width: 85%;
+    margin: auto;
+    height: 350px;
+}
+.custmore{
+    margin-top: 100px;
+    width: 85%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+     margin-bottom: 10px;
+    margin: auto;
+    /*  d-flex flex-column justify-content-between */
+    
+}
+.rating-1{
+     flex: 4;
+}
+.rating-2{
+    flex: 6;
+}
+
+.checked {
+    color: orange;
+  }
+.appintra{
+    width: 85%;
+    margin: auto;
+    height: 500px;
+    background-color: #f94a3d;
+    border-radius: 16px;
+    box-sizing: border-box;
+    margin-bottom: 400px;
+}
+.radint{
+    background-image: radial-gradient (#f94a3d, #e83b2e, #f94a3d);
+}
+.app{
+    position: relative;
+    top: 70px;
+    /* left: 50px; */
+}
+#AppCap{
+    font-family: Poppins;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 47px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: white;
+
+}
+#AppCap-sub{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+
+}
+footer{
+    height: 300px;
+    background-color: #fef3f4;
+}
